@@ -1,0 +1,13 @@
+
+.item{
+    grid-area: c;
+    background-color: chartreuse;
+}
+
+.post img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    padding: 10px;
+}
+

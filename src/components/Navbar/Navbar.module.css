@@ -1,0 +1,32 @@
+
+.nav {
+    grid-area: n;
+    background:#242021;
+    font-family: Arial, sans-serif;
+
+}
+
+.item {
+    color: white;
+    font-size: 20px;
+    font-family: Alata, sans-serif;
+    font-style: revert;
+    /*border: 1px dashed #d4ffd8;*/
+
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+
+}
+.item a{
+    text-decoration: none;
+    color:white;
+}
+
+
+.item a.activeLink{
+    color:gold;
+}
+.item:hover {
+    font-size: 25px;
+}

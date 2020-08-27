@@ -1,0 +1,12 @@
+
+
+.img{
+    width: 1200px;
+
+}
+
+.post img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
